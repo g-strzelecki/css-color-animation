@@ -1,5 +1,4 @@
-.circle
-{
+.circle {
     background-color: #ffffff;
     width: 40vh;
     height: 40vh;
@@ -13,8 +12,7 @@
 
 }
 
-button
-{
+button {
     background-color: brown;
     color: white;
     display: block;
@@ -25,8 +23,7 @@ button
     outline: none;
 }
 
-.active
-{
+.active {
     transform: rotate(13690deg);
     border-bottom-color: yellow;
     border-top-color: crimson;
